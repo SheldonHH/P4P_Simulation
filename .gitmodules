@@ -1,0 +1,12 @@
+[submodule "person"]
+	path = person
+	url = http://github.com/sheldonhh/person
+	branch = 8081
+[submodule "demo_for_spring"]
+	path = demo_for_spring
+	url = http://github.com/sheldonhh/demo_for_spring
+	branch = 1001
+[submodule "peer"]
+	path = peer
+	url = http://github.com/sheldonhh/peer
+	branch = peer1
